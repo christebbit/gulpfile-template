@@ -1,0 +1,30 @@
+{
+  "name": "gulpfile-template",
+  "version": "1.0.0",
+  "description": "Base gulpfile for production ready CSS and JS generation",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-babel-minify": "^0.2.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-modernizr": "^1.0.0-alpha",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christebbit/gulpfile-template.git"
+  },
+  "author": "Chris Tebbit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christebbit/gulpfile-template/issues"
+  },
+  "homepage": "https://github.com/christebbit/gulpfile-template#readme"
+}
